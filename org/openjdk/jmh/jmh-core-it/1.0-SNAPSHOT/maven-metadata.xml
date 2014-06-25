@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.openjdk.jmh</groupId>
+  <artifactId>jmh-core-it</artifactId>
+  <version>1.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20140625.215247</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20140625215247</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.0-20140625.215247-1</value>
+        <updated>20140625215247</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0-20140625.215247-1</value>
+        <updated>20140625215247</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
